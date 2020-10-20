@@ -1,0 +1,45 @@
+body {background-color: #d2f5e3;
+      margin-left: 15%;
+      margin-right: 15%;
+    }
+hr {
+    border-style: dotted none none none;
+    border-color: #e5c5b5;
+    border-width: 10px;
+    height: 0px;
+    width: 10%;}
+h1 {
+    color: #94b4a4;
+    text-decoration: overline;
+    text-align: end;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #94b4a4;
+}
+
+.title:hover {
+    letter-spacing: 6px;
+}
+
+.bio-cell {
+    text-align: end;
+}
+
+.pageheader {
+    width: 100%;
+}
+
+.work-table {
+    width: 100%;
+}
+
+.work-table-column {
+    padding-left: 2em;
+    text-align: end;
+}
+
+.work-table-header {
+    text-align: end;
+}
